@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-304930832/SuperHeores.iml" filepath="$PROJECT_DIR$/.idea/modules/-304930832/SuperHeores.iml" group="SuperHeores" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="SuperHeores/app" />
+    </modules>
+  </component>
+</project>

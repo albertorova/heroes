@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/ivHeroe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/negroTransparente" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/super_hero_badge_size"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/degradado" />
+
+    <TextView
+        android:id="@+id/tvHeroe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="NOMBRE HEROE"
+        android:textColor="@android:color/white"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/iv_badge"
+        android:layout_width="@dimen/super_hero_badge_size"
+        android:layout_height="@dimen/super_hero_badge_size"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/default_margin"
+        android:src="@drawable/ic_watchmen"
+        android:visibility="gone"
+        tools:visibility="visible" />
+</RelativeLayout>

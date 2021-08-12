@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267106456970",
+    "firebase_url": "https://testlogin-c1c2a.firebaseio.com",
+    "project_id": "testlogin-c1c2a",
+    "storage_bucket": "testlogin-c1c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267106456970:android:7cf35cf5fc6b897afda473",
+        "android_client_info": {
+          "package_name": "com.example.superheores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267106456970-harsmr9f4860t516kr27clrfibq7o5vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBudEd9RUnHHHRrAy3Ga3-MankU9wNNpEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267106456970-harsmr9f4860t516kr27clrfibq7o5vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
